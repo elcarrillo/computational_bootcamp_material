@@ -1,5 +1,7 @@
 
-## Repo for Computational bootcamp 
+## Repository for Computational Bootcamp Material 
+
+![Bootcamp Image](images/stock_image.jpg)
 
 This repository contains the course outline and related materials for a comprehensive multi-day course on various technologies and tools. The course covers topics from basic data management/manipulation and version control to advanced Python programming and visualization. In addition to the course outline, this repository includes Jupyter Notebooks that provide hands-on exercises and projects for the Python portion of the course.
 
